@@ -4,7 +4,7 @@ A comprehensive collection of software design patterns implemented with practica
 Below is the checklist of patterns to track the progress of implementation:
 
 ### Creational Patterns
-- [ ] Abstract Factory  
+- [x] **Abstract Factory**  
 - [ ] Builder  
 - [ ] Factory Method  
 - [ ] Lazy Initialization  
@@ -20,7 +20,7 @@ Below is the checklist of patterns to track the progress of implementation:
 - [ ] Composite  
 - [x] **Decorator**
 - [ ] Facade  
-- [ ] Flyweight  
+- [x] **Flyweight**  
 - [ ] Front Controller  
 - [ ] Module  
 - [ ] Proxy  
@@ -33,7 +33,7 @@ Below is the checklist of patterns to track the progress of implementation:
 - [ ] Data Caching  
 - [ ] Interpreter  
 - [ ] Iterator  
-- [ ] Mediator  
+- [x] **Mediator**  
 - [ ] Memento  
 - [ ] Null Object  
 - [ ] Observer (Publish/Subscribe)  
@@ -50,5 +50,3 @@ Below is the checklist of patterns to track the progress of implementation:
 - [ ] Model View View-Model  
 - [ ] Model View Adapter  
 - [ ] Presentation Abstraction Control  
-
----
