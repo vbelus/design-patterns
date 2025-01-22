@@ -41,5 +41,3 @@ In this implementation:
 
 3. **Dynamic Composition**:  
    - Decorators are applied dynamically, allowing for flexible and reusable combinations without altering the original `PlainText` class.
-
----

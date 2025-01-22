@@ -41,7 +41,7 @@ Below is the checklist of patterns to track the progress of implementation:
 - [ ] Servant  
 - [ ] Specification  
 - [ ] Strategy  
-- [ ] Template  
+- [x] **Template**  
 - [ ] Visitor  
 
 ### UI Patterns

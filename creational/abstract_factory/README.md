@@ -54,6 +54,3 @@ Imagine you’re building a program that needs different sets of things (like bu
 
 - **No More Mix-Ups**: 
   - The factory ensures you only get pieces that match (like a Windows button with a Windows checkbox).
-
----
-

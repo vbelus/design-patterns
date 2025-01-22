@@ -17,5 +17,3 @@ This directory demonstrates the use of Python's `@` decorator syntax through var
 
 - **`example.py`**:  
   Combines all the decorators to demonstrate their usage with a Fibonacci function. The example uses Python's `@` syntax to stack the decorators elegantly.
-
----

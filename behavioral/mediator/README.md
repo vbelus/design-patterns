@@ -32,10 +32,3 @@ In this implementation:
 
 3. **Dynamic Interactions**:  
    - New users can join the chat room dynamically without requiring changes to existing code.
-
----
-
-### **Example Output**
-
-Running `example.py` produces the following output:
-
